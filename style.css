@@ -68,3 +68,20 @@ button {
     margin-top: 20px;
     font-weight: bold;
 }
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .quiz-container {
+        width: 90%; 
+    }
+    .quiz-header {
+        padding: 2rem; 
+    }
+    ul li {
+        font-size: 1rem; 
+    }
+    button {
+        font-size: 1rem; 
+        padding: 1rem; 
+    }
+}
