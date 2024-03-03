@@ -8,6 +8,9 @@ The Football Quiz is designed to provide users with an interactive quiz related 
 **Engagement:** The quiz is set up so that users are asked to answer before proceeding to the next question, encouraging them to actively participate.
 **Challenge:** Variety of difficulty of the questions sets an interresting challenge for users of all knowledgabilty's to test themselves.
 
+![image](https://github.com/zyprech/portfolio2/assets/161986102/54d05631-ab33-418f-82e5-b2857f148364)
+
+
 # Features left to implement
 
 -Highscores / Ranking system
@@ -40,7 +43,7 @@ In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - 
+The live link can be found here - https://zyprech.github.io/portfolio2/
 
 ## Screenshots:
 
