@@ -1,6 +1,6 @@
-#Football Quiz Web Application
+# Football Quiz Web Application
 
-##Purpose:
+## Purpose:
 The Football Quiz is designed to provide users with an interactive quiz related to football trivia questions. Users can register their usernames to commence the quiz and answer a sequence of questions relation to a variety of different areas within football history. The questions explore areas of football such as top teams, players and tournament specific topics. The purpose of the quiz is to entertain football fans by testing their knowledge of football. 
 
 ##Value to users:
