@@ -1,21 +1,22 @@
-Football Quiz Web Application
-Purpose:
+#Football Quiz Web Application
+
+##Purpose:
 The Football Quiz is designed to provide users with an interactive quiz related to football trivia questions. Users can register their usernames to commence the quiz and answer a sequence of questions relation to a variety of different areas within football history. The questions explore areas of football such as top teams, players and tournament specific topics. The purpose of the quiz is to entertain football fans by testing their knowledge of football. 
 
-Value to users:
+##Value to users:
 
 Entertainment: Users can enjoy an interactive quiz that tests their football knowledge. 
 Learning: Regardless of the outcome, users can learn interresting facts about football history by just attempting the quiz through instant/automated feedback.
 Engagement: The quiz is set up so that users are asked to answer before proceeding to the next question, encouraging them to actively participate.
 Challenge: Variety of difficulty of the questions sets an interresting challenge for users of all knowledgabilty's to test themselves.
 
-Deployment Procedure:
+##Deployment Procedure:
 
 
 
-Screenshots:
+##Screenshots:
 
-      Homepage-
+      #Homepage-
 
 ![image](https://github.com/cultox/sahand2/assets/157257300/088792cd-2683-40dd-9d1a-5a2b38861206)
 
@@ -25,7 +26,7 @@ This is the homepage for the quiz, where users must register to proceed to the q
 
 If users try to register without a username they receive this alert.
 
-      Quiz/Questions-
+      #Quiz/Questions-
 
 ![image](https://github.com/cultox/sahand2/assets/157257300/233fa677-b70e-4c36-923a-4e805674a197)
 
@@ -41,7 +42,7 @@ Similarly, if the user tries to proceed without selecting an answer they will re
 Regardless of the answer, whether it is correct or incorrect the script is set up to give an instant automated feedback response when submitting your answer. The feedback will be displayed as wrong or correct along with a relevant image corresponding to the correct answer.
 
 
-    Results-
+    #Results-
 
 ![image](https://github.com/cultox/sahand2/assets/157257300/0640851f-1421-42bc-8444-376d29c363dc)
 
@@ -49,14 +50,14 @@ Once the quiz is finished the user will be presented with their results, stating
 
 
 
-External Sources:
+##External Sources:
 
 -The Quiz uses images sourced from IconArchive and EmojiGG. These were the sources I found to have the most suitable images in terms of image size.
 -
 
-Code Organization:
+##Code Organization:
 
-Development Process:
+##Development Process:
 
 
 
