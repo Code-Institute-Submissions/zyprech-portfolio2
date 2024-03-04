@@ -69,7 +69,6 @@ button {
     font-weight: bold;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
     .quiz-container {
         width: 90%; 
