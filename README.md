@@ -84,6 +84,8 @@ Once the quiz is finished the user will be presented with their results, stating
 ## Credit
 
 -The Quiz uses images sourced from IconArchive and EmojiGG. These were the sources I found to have the most suitable images in terms of image size.
+-Fonts used were taken from https://fonts.google.com/specimen/Roboto
+-
 
 
 
